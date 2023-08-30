@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OSLab3", "OSLab3.csproj", "{A704F10D-58AF-49F1-A8B1-051E27A3288B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A704F10D-58AF-49F1-A8B1-051E27A3288B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A704F10D-58AF-49F1-A8B1-051E27A3288B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A704F10D-58AF-49F1-A8B1-051E27A3288B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A704F10D-58AF-49F1-A8B1-051E27A3288B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A1F24BB-6F45-43DE-AEA3-5148C1DC0031}
+	EndGlobalSection
+EndGlobal
